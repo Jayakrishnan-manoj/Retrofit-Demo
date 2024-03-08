@@ -74,4 +74,5 @@ dependencies {
     ksp("com.squareup.moshi:moshi-kotlin-codegen:1.15.0")
     kapt("com.squareup.moshi:moshi-kotlin-codegen:1.15.0")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.1")
+    implementation("com.github.bumptech.glide:compose:1.0.0-beta01")
 }
