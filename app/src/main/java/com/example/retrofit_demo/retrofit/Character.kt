@@ -1,4 +1,4 @@
-package com.example.retrofit_demo.model
+package com.example.retrofit_demo.retrofit
 
 import com.squareup.moshi.Json
 import com.squareup.moshi.JsonClass
